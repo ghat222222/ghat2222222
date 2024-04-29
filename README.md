@@ -1,5 +1,6 @@
+Ola, bem vindos ao meu perfil
 # ghat2222222
-Meu nome é Gabryella
+Meu nome é Gabryella Saeki
 Estou estudando na Alura
 Estou me desenvolvendo na linguagem JavaScript
 Utilizo esse espaço para minha organização e compartilhamento dos meu projetos desenvolvidos
